@@ -1,4 +1,5 @@
-> This is modified version to compare to MODA https://github.com/icse2025-artifacts/MODA
+> Original version of Mwt can be found here: https://github.com/qibinhang/MwT/ <br>
+> This is modified version to compare to MODA: https://github.com/icse2025-artifacts/MODA
 
 # Modularizing while Training: A New Paradigm for Modularizing DNN Models
 ## Abstract
